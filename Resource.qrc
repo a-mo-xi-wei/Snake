@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/bg1.png</file>
+        <file>Resource/bg2.png</file>
+        <file>Resource/food1.png</file>
+        <file>Resource/food2.png</file>
+        <file>Resource/food3.png</file>
+        <file>Resource/head.png</file>
+        <file>Resource/tail.png</file>
+        <file>Resource/start.png</file>
+        <file>style.css</file>
+        <file>Resource/she.png</file>
+        <file>Resource/gameover.png</file>
+        <file>Resource/gameStart.wav</file>
+        <file>Resource/background.wav</file>
+        <file>Resource/eatFood.wav</file>
+        <file>Resource/gameOver.wav</file>
+    </qresource>
+</RCC>

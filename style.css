@@ -1,0 +1,45 @@
+QPushButton {
+    border: none;
+    border-radius: 10px;
+    background-color: #CCFFCC;
+    color :black;
+    font:bold 20px "华文行楷" 
+}
+
+QPushButton:hover {
+    background-color: #99FFCC;
+    font-size:25px;
+}
+/*消息提示框*/
+QMessageBox {
+    background-color: #FFFF99;
+    border-radius: 3px;
+}
+
+QMessageBox QLabel {
+    font-family: '华文行楷';
+    font-size: 20px;
+    border:none;
+    color: #FF9933;
+    padding-left: 0px;
+    padding-top: 20px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+QMessageBox QPushButton {
+    background-color: #99FF33;
+    color: black;
+    width: 60px;
+    height: 30px;
+    margin-right: 12px;
+    border: none;
+    border-radius: 8px;
+    
+}
+
+QMessageBox QPushButton:hover {
+    background-color: #CCFF33;
+}
+
+
